@@ -1,0 +1,9 @@
+[package]
+name = "rabellenkalkulation"
+version = "0.1.0"
+authors = ["Yannik Rehs <yannikrehs@mailbox.org>", "Moritz Kempe <moritzkempe@mailbox.org>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
